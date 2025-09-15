@@ -1,0 +1,29 @@
+# --- Python & Jupyter ---
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pkl
+
+# --- Environments ---
+.venv/
+env/
+.conda/
+.env
+.env.*
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Tests / Caches / Logs ---
+.pytest_cache/
+.mypy_cache/
+*.log
+
+# --- Data & Results (uncomment to ignore these folders) ---
+# dataset/
+# Results/
+
